@@ -17,7 +17,7 @@ In an era where personal data is frequently exposed, Rialo provides a decentrali
 3.  Decentralized Identity Management]
 
 ## 🎯 How It Works 
-1: How to Encrypt a Message
+#  How to Encrypt a Message
 Navigate to the Demo: Start at the "Live demo - encrypt & send" section on the webpage.
 Enter Recipient:
 Make sure the "Channel" is set to Email.
