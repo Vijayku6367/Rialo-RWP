@@ -72,8 +72,7 @@ To ensure a welcoming and inclusive environment, we have a Code of Conduct that 
 This project is distributed under the MIT License. See `LICENSE.md` for more information.
 
 ## 📬 Connect With Us
-
-* **Twitter:** [@RialoHq](https://twitter.com/vijayeth_
+* **Twitter:** [@Vijayeth_}
 
 ---
 Made with ❤️ by the Rialo Community
